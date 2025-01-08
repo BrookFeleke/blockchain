@@ -23,8 +23,8 @@ This project demonstrates the implementation of a basic blockchain system using 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your_username/blockchain_api.git
-   cd blockchain_api
+   git clone https://github.com/BrookFeleke/blockchain.git
+   cd Blockchain
    ```
 
 2. **Set up a virtual environment**
