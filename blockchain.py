@@ -1,4 +1,3 @@
-# app/blockchain.py
 from hashlib import sha256
 from typing import List, Dict
 

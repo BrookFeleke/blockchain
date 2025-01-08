@@ -1,7 +1,6 @@
-# app/main.py
 from fastapi import FastAPI, HTTPException
-from app.models import Transaction, BlockData
-from app.blockchain import Blockchain
+from blockchain import Blockchain  
+from models import Transaction, BlockData  
 
 app = FastAPI()
 blockchain = Blockchain()
